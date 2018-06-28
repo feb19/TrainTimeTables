@@ -1,52 +1,89 @@
 [
-  {
-    "time": "05:09",
-    "type": "各駅停車",
-    "destination": "久喜"
-  },
-  {
-    "time": "05:21",
-    "type": "急行",
-    "destination": "渋谷"
-  },
-  {
-    "time": "05:25",
-    "type": "各駅停車",
-    "destination": "南栗橋"
-  },
-  {
-    "time": "05:31",
-    "type": "各駅停車",
-    "destination": "渋谷"
-  },
-  {
-    "time": "05:36",
-    "type": "各駅停車",
-    "destination": "押上[スカイツリー前]"
-  },
-  {
-    "time": "05:42",
-    "type": "各駅停車",
-    "destination": "久喜"
-  },
-  {
-    "time": "05:48",
-    "type": "急行",
-    "destination": "押上[スカイツリー前]"
-  },
-  {
-    "time": "05:57",
-    "type": "各駅停車",
-    "destination": "押上[スカイツリー前]"
-  },
-  {
-    "time": "06:00",
-    "type": "各駅停車",
-    "destination": "渋谷"
-  },
-  {
-    "time": "06:05",
-    "type": "急行",
-    "destination": "久喜"
-  }
+ {
+  "time,type,destination": "5:09,各駅停車,久喜\r"
+ },
+ {
+  "time,type,destination": "5:21,急行,渋谷\r"
+ },
+ {
+  "time,type,destination": "5:25,各駅停車,南栗橋\r"
+ },
+ {
+  "time,type,destination": "5:31,各駅停車,渋谷\r"
+ },
+ {
+  "time,type,destination": "5:36,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "5:42,各駅停車,久喜\r"
+ },
+ {
+  "time,type,destination": "5:48,各駅停車,渋谷\r"
+ },
+ {
+  "time,type,destination": "5:51,急行,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "5:57,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:00,各駅停車,渋谷\r"
+ },
+ {
+  "time,type,destination": "6:05,急行,久喜\r"
+ },
+ {
+  "time,type,destination": "6:07,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:11,各駅停車,南栗橋\r"
+ },
+ {
+  "time,type,destination": "6:15,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:20,急行,清澄白河\r"
+ },
+ {
+  "time,type,destination": "6:21,各駅停車,東武動物公園\r"
+ },
+ {
+  "time,type,destination": "6:23,各駅停車,南栗橋\r"
+ },
+ {
+  "time,type,destination": "6:28,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:23,各駅停車,清澄白河\r"
+ },
+ {
+  "time,type,destination": "6:35,急行,東武動物公園\r"
+ },
+ {
+  "time,type,destination": "6:37,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:40,急行,北越谷\r"
+ },
+ {
+  "time,type,destination": "6:43,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:46,急行,清澄白河\r"
+ },
+ {
+  "time,type,destination": "6:48,各駅停車,清澄白河\r"
+ },
+ {
+  "time,type,destination": "6:51,急行,南栗橋\r"
+ },
+ {
+  "time,type,destination": "6:53,各駅停車,押上[スカイツリー前]\r"
+ },
+ {
+  "time,type,destination": "6:56,急行,久喜\r"
+ },
+ {
+  "time,type,destination": "6:58,各駅停車,清澄白河"
+ }
 ]
