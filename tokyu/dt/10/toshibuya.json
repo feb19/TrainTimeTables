@@ -1,0 +1,52 @@
+[
+  {
+    "time": "05:09",
+    "type": "各駅停車",
+    "destination": "久喜"
+  },
+  {
+    "time": "05:21",
+    "type": "急行",
+    "destination": "渋谷"
+  },
+  {
+    "time": "05:25",
+    "type": "各駅停車",
+    "destination": "南栗橋"
+  },
+  {
+    "time": "05:31",
+    "type": "各駅停車",
+    "destination": "渋谷"
+  },
+  {
+    "time": "05:36",
+    "type": "各駅停車",
+    "destination": "押上[スカイツリー前]"
+  },
+  {
+    "time": "05:42",
+    "type": "各駅停車",
+    "destination": "久喜"
+  },
+  {
+    "time": "05:48",
+    "type": "急行",
+    "destination": "押上[スカイツリー前]"
+  },
+  {
+    "time": "05:57",
+    "type": "各駅停車",
+    "destination": "押上[スカイツリー前]"
+  },
+  {
+    "time": "06:00",
+    "type": "各駅停車",
+    "destination": "渋谷"
+  },
+  {
+    "time": "06:05",
+    "type": "急行",
+    "destination": "久喜"
+  }
+]
